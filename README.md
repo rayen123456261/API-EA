@@ -1,0 +1,2 @@
+# API-EA
+How i can Fix ERR_TOO_MANY_REDIRECTS 
